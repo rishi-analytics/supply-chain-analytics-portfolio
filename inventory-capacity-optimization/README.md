@@ -1,4 +1,5 @@
 # Inventory Strategy and Warehouse Capacity Optimization
+[View Google Sheet](https://docs.google.com/spreadsheets/d/1T2DTTSv_rbLaYsBJGA7yLAdoZhkDrVee94ZtjZ9250w/edit?usp=sharing)
 
 ## Overview
 Developed an inventory planning model for 100+ SKUs to optimize stock levels while maintaining target service levels. The analysis incorporated demand variability, safety stock, and warehouse capacity constraints.
@@ -35,3 +36,5 @@ The inventory plan required 3,270 pallets, exceeding available warehouse capacit
 
 ## Outcome
 Identified a critical warehouse constraint and proposed data-driven strategies to balance service level and storage capacity.
+
+[View Google Sheet](https://docs.google.com/spreadsheets/d/1T2DTTSv_rbLaYsBJGA7yLAdoZhkDrVee94ZtjZ9250w/edit?usp=sharing)
