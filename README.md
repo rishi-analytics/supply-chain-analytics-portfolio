@@ -1,12 +1,12 @@
 # Supply Chain Analytics Portfolio
-I completed a supply chain data analyst professional certificate from Unilever. Skilled I gained: supply chain optimization &management, process, SKU + supplier analysis, inverntory management.
+I completed a supply chain data analyst professional certificate from Unilever. Skilled I gained: supply chain optimization &management, process, SKU + Lead time + Supplier analysis, inverntory management.
 <p id="PySpark_Certificate" align="center">
 <img src="project-images/scm-certificate.png"  width="600"  height="600">
 </p>
 
 This repository showcases end-to-end supply chain analytics projects focused on optimizing operations across multiple SKUs, including demand analysis, logistics optimization, and inventory planning.
 
-Projects in this portfolio apply data-driven methods to improve service levels, manage safety stock, evaluate lead times, and address warehouse capacity constraints.
+This repo contains projects I made as part of this professional certificate. Furthermore,  This repo also will contain other projects as part of SCM. This is part of my plan to extend this portfolio to become proficient in the field of Supply Chain Analysis. Projects in this portfolio apply data-driven methods to improve service levels, manage safety stock, evaluate lead times, and address warehouse capacity constraints.
 
 ## Projects
 
