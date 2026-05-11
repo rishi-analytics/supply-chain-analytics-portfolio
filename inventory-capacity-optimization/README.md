@@ -2,7 +2,7 @@
 [View Google Sheet](https://docs.google.com/spreadsheets/d/1T2DTTSv_rbLaYsBJGA7yLAdoZhkDrVee94ZtjZ9250w/edit?usp=sharing)
 
 ## Overview
-Developed an inventory planning model for 100+ SKUs to optimize stock levels while maintaining target service levels. The analysis incorporated demand variability, safety stock, and warehouse capacity constraints.
+I Developed an inventory planning model for 100+ SKUs to optimize stock levels while maintaining target service levels. The analysis included areas of demand variability, safety stock, and warehouse capacity constraints.
 
 ## Objective
 - Estimate SKU-level demand and variability  
@@ -19,7 +19,7 @@ Developed an inventory planning model for 100+ SKUs to optimize stock levels whi
 ## Key Insight
 The inventory plan required 3,270 pallets, exceeding available warehouse capacity of 2,000 pallets, indicating a 63% capacity shortfall.
 
-## Recommendations
+## Recommendations: based on my business analytics and supply chain knowledge-
 - Increase warehouse capacity  
   Disadvantage: high cost and long-term commitment  
 
